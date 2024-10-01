@@ -4,7 +4,7 @@
 This project includes Swagger UI for API documentation, allowing you to easily explore and test the available endpoints.
 
 - **Billing Microservice Swagger Documentation**: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-- **Customer Microservice Swagger Documentation**: [http://localhost:8081/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html)
+- **Customer Microservice Swagger Documentation**: [http://localhost:9090/swagger-ui/index.html](http://localhost:9090/swagger-ui/index.html)
 
 ### Billing Microservice Endpoints
 #### 1. Add a New Billing
