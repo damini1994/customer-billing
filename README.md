@@ -34,6 +34,7 @@ This project includes Swagger UI for API documentation, allowing you to easily e
   - `200 OK`: Successfully retrieved billing
   - `404 Not Found`: Billing not found for the given ID
 
+
 ### Customer Microservice Endpoints
 #### 1. Add a New Customer
 - **Endpoint:** `POST /api/customers/add`
